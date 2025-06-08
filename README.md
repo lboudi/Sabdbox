@@ -1,3 +1,3 @@
 # Sandbox
 
-Just sandbox between computer ecience and Mathematical theory
+Just sandbox between computer science and Mathematical theory
