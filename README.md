@@ -1,5 +1,4 @@
 # Sandbox
 
 Just sandbox between computer science and Mathematical theory
-!["PI"]
-(./PI.JPG "PI")
+![Gaussienne 3D](Gaussienne_3D.png "Gaussienne 3D")
