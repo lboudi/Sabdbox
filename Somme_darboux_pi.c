@@ -8,15 +8,15 @@ int main() {
   int N;
   int cpt = 0;
   double Somme = 0.0;
-  // N = 100;// Ceci fonctionne
-  // delta_x = 1.0e-01; // Ceci fonctionne
-  // delta_y = delta_x; // Ceci fonctionne
-  printf("Rentrez N = ");
+  N = 100;// Ceci fonctionne
+  delta_x = 1.0e-01; // Ceci fonctionne
+  delta_y = delta_x; // Ceci fonctionne
+  /* printf("Rentrez N = ");
   scanf( "%d ",&N);
   printf("Rentrez le pas delta_x = ");
   scanf("%lf",&delta_x);
   printf("Rentrez le pas delta_x = ");
-  scanf("%lf",&delta_y);
+  scanf("%lf",&delta_y);*/
   for(int i = - N + 1 ; i < N ; i++)
     {
       for(int j = - N + 1 ; j < N ; j++)
