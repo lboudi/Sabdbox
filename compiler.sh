@@ -1,3 +1,5 @@
+#!/bin/bash
+
 rm Identite_*
 rm PI
 rm *~
